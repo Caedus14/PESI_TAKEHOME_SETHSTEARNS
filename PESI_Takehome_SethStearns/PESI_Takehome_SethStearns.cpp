@@ -1,6 +1,3 @@
-// PESI_Takehome_SethStearns.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include "pch.h"
 #include <iostream>
 #include <string>
@@ -43,16 +40,17 @@ string thirdRand(string s) {
 int main()
 {
 	string input;
-    cout << "Hello World!\n"; 
 
 	cout << "Please enter a string.\n";
 	cin >> input;
-	//cout << input << endl;
 
+	// Calling and outputing the result of the first function
 	cout << firstRand(input) << endl;
 
+	// Calling and outputing the result of the second function
 	cout << secondRand(input) << endl;
 
+	// Calling and outputing the result of the third function
 	cout << thirdRand(input) << endl;
 
 
