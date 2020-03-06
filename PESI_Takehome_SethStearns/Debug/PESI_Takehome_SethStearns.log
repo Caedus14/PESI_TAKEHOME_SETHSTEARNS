@@ -1,0 +1,3 @@
+﻿  PESI_Takehome_SethStearns.cpp
+c:\users\caedus\source\repos\pesi_takehome_sethstearns\pesi_takehome_sethstearns\pesi_takehome_sethstearns.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PESI_Takehome_SethStearns.vcxproj -> C:\Users\Caedus\source\repos\PESI_Takehome_SethStearns\Debug\PESI_Takehome_SethStearns.exe
